@@ -1,2 +1,2 @@
 # tip-calculator
-CUNY JavaScipt exercise files for tip calculator
+Files for a simple tip calculator exercise.
